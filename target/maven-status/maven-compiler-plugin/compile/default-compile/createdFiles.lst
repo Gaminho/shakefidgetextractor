@@ -1,0 +1,5 @@
+Main.class
+extract/MonsterExtractor.class
+bean/Monster.class
+bean/TornadoMonster.class
+extract/FileReader.class
